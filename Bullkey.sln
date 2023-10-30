@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34219.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BullkeyWeb", "BullkeyWeb\BullkeyWeb.fsproj", "{58057DB2-55F0-4F48-AB53-0B726A9D7452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58057DB2-55F0-4F48-AB53-0B726A9D7452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58057DB2-55F0-4F48-AB53-0B726A9D7452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58057DB2-55F0-4F48-AB53-0B726A9D7452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58057DB2-55F0-4F48-AB53-0B726A9D7452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4796F885-2D3C-4A32-8357-C1F91C751610}
+	EndGlobalSection
+EndGlobal
